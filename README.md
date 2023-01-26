@@ -1,4 +1,4 @@
-[![MasterHead][(https://code.org/images/ai/ailab.gif)]
+[![MasterHead](https://code.org/images/ai/ailab.gif)]
 <h1 align="center">Hi 👋, I'm Siddhant Pawar</h1>
 <h3 align="center">A passionate about Artificial intelligence And Machine Learning</h3>
 
